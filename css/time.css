@@ -1,0 +1,24 @@
+body{background-color: rgb(244, 236, 227);}
+        .navbar{background-color: rgb(241, 240, 136); padding: 0px !important; margin: 0px !important;}
+        .navbar li a{font-weight: bold; font-family:'Courier New', Courier, monospace; color: brown;}
+        .container-fluid{margin: 0px; padding: 0px;}
+        .row{margin: 0px; padding: 0px;}
+        .box121{margin-top: 100px;}
+        otron{padding: 20px;}
+        .container-fluid{margin-top: 25px;}
+        .box2:hover {
+            background-color: bisque; padding: 20px 10px; border: 2px solid black; border-radius: 15px; box-shadow: 9px 9px 12px 0px rgb(157, 75, 75); transition-duration: 2s;
+        }
+
+        .box2 h1 {
+           
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: rgb(159, 13, 13);
+        }
+
+        .box2 p {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: black;font-size: 16px;
+        }
+      #time{border: 2px solid lightslategrey; border-radius: 16px; background-color:lightgray;}
+
+      .box2{ background-color: rgb(240, 159, 59); padding: 20px 10px; border: 2px solid black; border-radius: 15px; box-shadow: 9px 9px 12px 0px brown; }
+      
